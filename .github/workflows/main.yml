@@ -25,4 +25,4 @@ jobs:
       with:
         # Fix basic errors
         fix: true  
-        args: './CHANGELOG.md'
+        args: './README.md'
