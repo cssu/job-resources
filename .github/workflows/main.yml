@@ -14,13 +14,13 @@ on:
 jobs:
   # This workflow contains a single job called "lint-readme"
    lint-readme:
-    name: Lint changelog file
+    name: Lint README.md file
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
 
-    - name: Lint README file
+    - name: Lint README.md file
       uses: docker://avtodev/markdown-lint:v1
       with:
         # Fix basic errors
