@@ -1,9 +1,7 @@
 # CSSU Job Resources
-
 A repository for CSSU Members to share collaborate on the job search
 
 ## How to Contribute
-
 This repository is maintained by the CSSU community. To contribute, please:
 
 1. Fork the repository
@@ -28,7 +26,7 @@ A list of links with resources for Job Seekers.
 
 ### General Job Seeking Resources
 
-|                                            **Name**                                             |                         **Description**                         |
+|                                            **Name**                                             |                         **Description                         |
 | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | [CS Jobs](https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit) | A  google doc with links to various CS/CS-job related resources. [Archived Copy](./archive/cs%20jobs.docx) |
 
