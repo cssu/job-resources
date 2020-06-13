@@ -34,7 +34,8 @@ A list of links with resources for Job Seekers.
 
 ### Contribute to Open Source Projects
 
->Open source projects are a great way to contribute to the Computer Science community while also providing valuable experience for your resume!
+>Open source projects are a great way to contribute to the Computer Science
+>community while also providing valuable experience for your resume!
 
 |                                            **Name**                                             |                         **Description**                         |
 | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
