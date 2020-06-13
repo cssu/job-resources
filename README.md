@@ -32,3 +32,12 @@ A list of links with resources for Job Seekers.
 | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | [CS Jobs](https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit) | A  google doc with links to various CS/CS-job related resources. [Archived Copy](./archive/cs%20jobs.docx) |
 
+### Contribute to Open Source Projects
+
+>Open source projects are a great way to contribute to the Computer Science community while also providing valuable experience for your resume!
+
+|                                            **Name**                                             |                         **Description**                         |
+| :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| [Google Open Source](https://opensource.google/projects/explore/featured) | List of open source projects provided by Google |
+| [Beginner Friendly Open Source](https://github.com/MunGell/awesome-for-beginners) | Comprehensive Github repo of great beginner friendly open source projects to get you started |
+| [Really Large List of Open Source Projects](https://medium.com/@likid_geimfari/the-list-of-interesting-open-source-projects-2daaa2153f7c) | Large list of open source projects with short descriptions so you're able to find projects that lie within your interests |
