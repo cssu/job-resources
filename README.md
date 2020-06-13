@@ -30,5 +30,5 @@ A list of links with resources for Job Seekers.
 
 |                                            **Name**                                             |                         **Description**                         |
 | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| [CS Jobs](https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit) | A  google doc with links to various CS/CS-job related resources |
+| [CS Jobs](https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit) | A  google doc with links to various CS/CS-job related resources. [Archived Copy](./archive/cs%20jobs.docx) |
 
