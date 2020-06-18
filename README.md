@@ -1,7 +1,9 @@
 # CSSU Job Resources
+
 A repository for CSSU Members to share collaborate on the job search
 
 ## How to Contribute
+
 This repository is maintained by the CSSU community. To contribute, please:
 
 1. Fork the repository
