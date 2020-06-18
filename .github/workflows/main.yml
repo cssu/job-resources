@@ -24,5 +24,6 @@ jobs:
       uses: docker://avtodev/markdown-lint:v1
       with:
         # Fix basic errors
-        fix: true  
+        fix: true 
+        config: './.github/workflows/config.json' 
         args: './README.md'
