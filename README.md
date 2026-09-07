@@ -30,6 +30,7 @@ A list of links with resources for Job Seekers.
 
 |                                            **Name**                                             |                         **Description**                         |
 | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| [ResumeAI](https://withresumeai.com/) | Free ATS checker + State of ATS 2026 (738/704, Workday 37.9%). |
 | [CS Jobs](https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit) | A  google doc with links to various CS/CS-job related resources. [Archived Copy](./archive/cs%20jobs.docx) |
 | [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/)                      | Canada student software internships and new-grad/junior jobs.   |
 
